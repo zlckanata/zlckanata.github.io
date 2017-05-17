@@ -1,2 +1,2 @@
 # About Me
-# My name is Lichen Zhou.
+My name is Lichen Zhou.
