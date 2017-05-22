@@ -2,7 +2,7 @@
 My name is Lichen Zhou.
 
 # Research Interests
-Machine Learning, Deep Learning.
+Machine Learning, Deep Learning. I'm currently pursuing the Master degree in Pattern Recognition and Intelligent System Laboratory(P.R.I.S Lab), Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
 
 # Education
 Sep. 2016 - Present: **Beijing University of Posts and Telecommunications (BUPT)**
@@ -14,7 +14,9 @@ Sep. 2012 - Jun. 2016: **Beijing University of Posts and Telecommunications (BUP
 * Bachelor of Telecommunication
 
 # Project Experience
+Mar. 2016 - June. 2016: **Face Recognition APP**
 
+* I developed a Prototype of Face Recognition Frontend System for Android.
 
 # Selected Publications
 
