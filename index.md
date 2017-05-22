@@ -1,8 +1,8 @@
 # About Me
-My name is Lichen Zhou.
+My name is Lichen Zhou. I'm currently pursuing the Master degree in Pattern Recognition and Intelligent System Laboratory(P.R.I.S Lab), Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
 
 # Research Interests
-Machine Learning, Deep Learning. I'm currently pursuing the Master degree in Pattern Recognition and Intelligent System Laboratory(P.R.I.S Lab), Beijing University of Posts and Telecommunications(BUPT), Beijing, China.
+Machine Learning, Deep Learning.
 
 # Education
 Sep. 2016 - Present: **Beijing University of Posts and Telecommunications (BUPT)**
