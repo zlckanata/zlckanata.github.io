@@ -1,2 +1,2 @@
 # Lichen Zhou
-This is Lichen Zhou's homepage.
+Welcome to Lichen Zhou's homepage.
